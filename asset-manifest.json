@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/interactive-entertainment-hub/static/css/main.f855e6bc.css",
+    "main.js": "/interactive-entertainment-hub/static/js/main.dbfb1daf.js",
+    "static/js/453.9045f1fc.chunk.js": "/interactive-entertainment-hub/static/js/453.9045f1fc.chunk.js",
+    "static/media/logo.svg": "/interactive-entertainment-hub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/interactive-entertainment-hub/index.html",
+    "main.f855e6bc.css.map": "/interactive-entertainment-hub/static/css/main.f855e6bc.css.map",
+    "main.dbfb1daf.js.map": "/interactive-entertainment-hub/static/js/main.dbfb1daf.js.map",
+    "453.9045f1fc.chunk.js.map": "/interactive-entertainment-hub/static/js/453.9045f1fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dbfb1daf.js"
+  ]
+}
